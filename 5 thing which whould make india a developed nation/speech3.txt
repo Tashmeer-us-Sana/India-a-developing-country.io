@@ -1,0 +1,52 @@
+Hello every one:
+My self tashmeer-us-Sana & 
+This is my friend Sumera Begum
+So This 75th Independence Day made us think when and how can India become a developed Nation from a developing one. This is how we started collecting information on what grounds our country can be a developed one.
+
+Let us get into our website which we started developing from Aug’22.
+
+So our Website name is India a Developing Nation:
+can you see at the top this is called header or navigation bar. In this I have Included three buttons named Home, Visitor counter,& contact us. so this the home page. on the right side I have included some Information related to the topic & image to. by using some html tags like <p> tag, Heading tag, font color tag ect...
+see html stands for hyper text markup language so to make the website more atractive I have used CSS &
+css stands for Cascading style sheets. so i have use padding, margin,width, height, float,hover, ect...   & on the left side I have included 5 links or topics of five things which would make india a developed nation
+ 
+so the first topic is Regressive step in crime and punishment:
+sumera's turn: (*The aim of the criminal justice system is to punish the criminal and prevent further crimes in future so that people could live peacefully.
+"Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life.)
+so over here i have divided one sheet into two parts. on the left side this is the scrolling sheet for making sheets i have used div tag & i have included id and name it as sheet 1 this is because to address styling & making changes. over here we have included video for video i have used video tag & source tag.-
+& in the nav.bar I have included next topic button & on the left side back to home button
+
+so lets go to the next topic: 2. Development in IT industrys  
+ sumera's turn:(The growth of the IT industry in India is unprecedented across the economies of the world. All the sub-sectors of this industry (hardware products have relatively seen less progress) have made strides in revenue growth in the last two decades and fueled the growth of the Indian economy.
+in here i have divide into two parts of sheets simply. here is the video as same in the first topic 
+
+so lets go to the next topic 3rd one start green revolution:
+ sumera's turn:(Throughout the history of human life, many revolutions have come to change and improve our quality of
+living. The term green revolution was first used by William Gaud and Norman Borlaug is the Father of the Green Revolution. The father of the Green revolution (India) M.S. Swaminathan. )
+so see for putting background-image we have included image by using background image tag & url.
+
+so the next topic is give priority for agriculture: (My turn)
+In the medium term, action to promote comprehensive and balanced agricultural development will require a focus on three priority areas: increasing food supply and reducing hunger; extending the area under sustainable land management and reliable water control systems; and improving rural infrastructure and market access.
+
+sumera's turn: (so I am going to tell you how we do fix our image. for our image position we need three tags in css float tag, padding left right, & margin left gight. by using these three tags you can make your image anywhere in your website. like this we have use our image to put in the right side on the sheet.)
+
+so the next topic 5th one is Pollution Control(my turn)
+Pollution control is the process of reducing or eliminating the release of pollutants into the environment. It is regulated by various environmental agencies which establish pollutant discharge limits for air, water, and land.
+so lets click to the back to home button. so the second button I have created in navigation bar is visitor counter:
+
+sumera's turn (so here we have created another webpage is visitor counter V.S means. A website visitor counter keeps track of how many visitors visit your website. & I am happy to say you that total 100 members has visited our website.) 
+
+so the next one is contact us So If you want to contact us you can have these mobile numbers & email ID of our teachers and  both of us also & you can also contact to our school here is the Adress of our school
+Govt.Girls High School 2nd Lancer Golconda Hyderabad Telangana. lets go to home page.
+so can you see at the last one this is called footer in this we have created a link of the website designer.
+over here we have created another webpage so let me tell you how to create link in the website. we use anker tag to create link. 
+sumera's turn (so if you want to know about our personal details. you can click to this link to know more about us) 
+THANK YOU
+
+
+
+
+
+
+							 
+

@@ -1,0 +1,262 @@
+<!doctype>
+<html>
+	<head>
+		<title>India the developing Country </title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		
+		
+		
+	</head>
+	<body>
+		<nav>
+			<a href="#sheet1"><h2 id ="nav">Back</h2></a>
+			<h1 class ="hi">India A developing Nation </h1>
+		</nav>
+		<div id = "sheet1" >
+			<br>
+			<p>
+				
+				<h3 id="h3">
+					<ul>
+						<li><h2 id="li" >India a developing nation</h2></li><br>
+					</ul>
+					<img id = "photo-left-side" src = "9.jpg" width="200" height = "200" ><br>
+					India is regarded as the world’s biggest democracy and second most populous country.
+					It has posted a remarkable record of development socially,
+					economically and politically since when she gained independence nearly seven decades ago.
+					Though some aspects of India are world class, most of the issues affecting majority of the citizens are still indicators of a developing nation. 
+					Therefore, this article attempts to prove that India is a developing country and she needs to do much to be book a spot on the table of developed countries.<br>
+					India’s high population is also an impediment to her development agenda. 
+					As the second most populous country in the world, she ought to institute a plan in place to contain and reduce her population since bigger population will pose challenges and slow her development.
+					One child policy among other measures can be taken to control the ever-increasing population with experts predict will overtake China’s in five years at the time of this publication.
+					However, this measure ought to be applied with caution since it might lead to human resource crisis and hence economic crisis in the future.
+				</h3>
+			</p>
+			<h2 id = "d">10 Things Which Would Make India A developed Nation </h2><br>
+			<img id = "photo-right-side" src = "g.png" width="200" height = "200" >
+			
+			<p id ="h2">
+				<h1>
+				<a href="#1">1.Increased penalty and immediate action for crime</a><br>
+				<a href="#2">2.Strict and Immediate action against corruption</a><br>
+				<a href="#3">3.Minimum Wages for every citizen of india </a><br>
+				<a href="#4">4.Start Green Revolution</a><br>
+				<a href="#5">5.Decentralization of power</a><br>
+				<a href="#6">6.People with civic sense</a><br>
+				<a href="#7">7.Treat and respect all human beings as one </a><br>
+				<a href="#8">8.Give Priority for Agricultre</a><br>
+				<a href="#9">9.Increased litracy rate</a><br>
+				<a href="#10">10.Pollution Control</a><br>
+				</h1>
+			</p>
+			
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">
+				<h2 id = "1"><p id = "i"><font color="purple">
+				<u>1.Increased penalty and immediate action for crime</u></h2>
+				<img src ="image2.jfif" width ="250px"/>
+				<h2>One of the most reliable crime prevention programs is the increased penalty. Increasing penalties or having<br> a more severe penalty,
+				such as capital punishment can deter many criminals from committing a crime.<br> By providing such a form of punishment, helps to deter
+				other potential criminals who would want to engage in similar behavior.<br>
+				Capital punishment has been regulated in international Human Rights treaties as an aspect of the right to life,
+				emphasis can be seen from the International Covenant on Civil and Political Rights (ICCPR).
+				The ICCPR does not expressly abolish the use of the death penalty, albeit Article 6(1) palpably declares
+				"Every human being has the inherent right to life. This right shall be protected by law.
+				</font></p></h2>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">		
+				<h2 id = "2"><p id = "i"><font color="dark pink">
+				<u>2.Strict and Immediate action against corruption</u></h2>
+				<img src ="1234.jfif" width ="250px"/>
+				<h2>CONCLUSION:<br>
+				Corruption does not depend on whether its private or government, it completly depends on individual's<br> attitude.
+				but by privatization we can reduce corruption up to some extend<br>
+				If a country is to be corruption free and become a nation of beautiful minds, I strongly feel that there are three key societial 
+				members who can make a difference.They are the father, the mother and the teacher.</font></p></h2>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">
+				<h2 id = "3"><p id ="i"><font color="green"><u>
+				3.Minimum Wages for every citizen of india </u></h2>
+				<img src ="th.jfif" width ="250px"/>
+				<h2>Most countries have a nation-wide minimum wage that all workers must be paid. While India has no national minimum wage,minimum
+				wages may be set by state or sector of industry.Wages vary from 160 rupees ($2.40) per day in Bihar to 423 rupees ($6.35) per day 
+				in Delhi based on Minimum Wages Act,1948.<br><br>
+				What is the India Minimum Wage?
+                India's Minimum Wage is the lowest amount a worker can be legally paid <br>for his work. Most countries have a nation-wide minimum 
+				wage that all workers must be paid.
+
+				While India has no national minimum wage,minimum wages may be set by state or sector of industry. Wages vary from 160 rupees 
+				($2.40) per day in Bihar to 423 rupees ($6.35) per day in Delhi based on Minimum Wages Act,1948.
+				State governments also set a separate minimum wage for agricultural workers. India's minimum wage was last changed in 1-Jan-2015.
+				</font></p></h2>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">
+				<h2 id = "4"><p id ="i"><font color="blue"><u>
+				4.Start Green Revolution</u></h2>
+				<img src ="6.jfif" width ="400px" height ="250px"/>
+				<h2>Throughout the history of human life, many revolutions have come to change and improve our quality of <br>living.
+				The dictionary meaning of green revolution is the use of methods and tools like fertilizers, pesticides,<br> high-yielding varieties 
+				of crops in developing countries to dramatically increase the production of crops like<br> rice, wheat, etc. Green revolution calls for 
+				the use of better management techniques as well.<br>
+				<u><b>When did the Green Revolution Start in India?</b></u><br>
+				The Green revolution started in India started with its introduction in Punjab in 1966. It was part of a development program that
+				was issued by the 
+				government of India along with international donor agencies.In industrialized countries, the green revolution means a steep rise 
+				in environmental concerns.<br>
+				<u><b>Beneficial Impact of Green Revolution in India</b></u><br>
+				India’s economy and way of life changed in a big way due to the Green revolution. One can gauge the major changes from the points
+				outlined below:	</font></p></h2><br>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		
+		<div id="sheet2">		
+				<h2 id = "5"><p id ="i"><font color="orange"><u>
+				5.Decentralization of power</u></h2>
+				<img src ="d.jpg" width ="400px" height ="250px"/>
+				<h2>Devolution is the decentralization of power to lower regional and local levels of government. It is a response to 
+				the needs of planning, state modernization, democratization, and the management of national diversity. There are different
+				models: administrative; functional; corporatist; and multifunctional and elected. Key issues are: the constitutional status
+				of devolved governments; the division of competences; financial powers; intergovernmental relations; and the relationships
+				with international and European politics.
+				Devolved systems of government are in permanent evolution, with some moving towards federalism and others reverting to
+				centralization.</font></p></h2><br>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">		
+				<h2 id = "6"><p id ="i"><font color="red"><u>
+				6.People with civic sense</u></h2>
+				<img src ="c.jpg" width ="400px" height ="250px"/>
+				<h2>CIVIC sense means social ethics. It examples include keeping roads, streets and public places clean.
+				It reflects the actual personality and shows the responsibility of any person. It encompasses unspoken norms
+				of society that help it run smoothly without someone tripping on somebody else’s toes.
+
+				Civic Sense is all about having consideration for a fellow human being. It means being polite, showing consideration
+				to the elderly, women, children and disabled people,
+				driving in one’s lane without honking, throwing one’s garbage in dustbins, and smoking only at designated places.
+				The list can go on.
+				
+				
+				
+				</font></p></h2><br>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">		
+				<h2 id = "7"><p id ="i"><font color="brown"><u>
+				<img src ="th 1.jfif" width ="400px" height ="250px"/>
+				7.Treat and Respect all human beings as one</u></h2>
+				<h2>Respect for Human Beings Respect is an overarching consideration and represents recognition of each human being’s intrinsic value.
+				As such, making opportunity for human beings 
+				to exercise autonomy and make their own decisions is paramount, as is a commitment to participant welfare over and above research 
+				goals.<br>
+				Show respect even to people who dont deserve it.Respect is a reflection of your Character,not theirs
+				
+				
+				</font></p></h2><br>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">		
+				<h2 id = "8"><p id ="i"><font color="black"><u>
+				8.Give Priority for Agriculture</u></h2>
+				<img src = "agriculture1.jpg"  width ="400px" height ="250px"/>
+				<h2>In the medium term, action to promote comprehensive and balanced agricultural development will require a focus on three priority
+				areas: increasing food supply and reducing hunger; 
+				extending the area under sustainable land management and reliable water control systems; and improving rural infrastructure and market
+				access.<br>
+				<u>Agriculture in the climate change action plan</u><br>
+				The agricultre sectore offers great potential  for synergies among the objectives of food security, poverty, reduction, adaptation and mitigation.<br>
+				Adaptation is first priority, but many actions have mitigation benifits-Climate smart agricultre can help meet both adaptation and mitigation goals.<br>
+				<u>Priority area for investment</u><br>
+				1. Improve agricultural productivity in poor rural communities<br>  
+				2. Develop and conserve natural resources<br>
+				3. Expand rural infrastructure and market access<br>
+				4. Strengthen capacity for knowledge generation and dissemination<br>
+				5. Ensure access to food for the most needy<br>
+				</font></p></h2><br>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">		
+				<h2 id = "9"><p id ="i"><font color="purple"><u>
+				9.Increased litracy rate</u></h2>
+				<img src = "l.jpg"  width ="400px" height ="250px"/><br>
+				<h2>From 1945 to 1990, the increase in literacy is minimal, from 16 to 28.3 per cent. After 1990 reforms from the government, there 
+				was a steady acceleration in
+				literacy rate up to 79.5 per cent in 2019. But due to the lockdown in 2020, the literacy rate had a downfall of 2 per cent, which is 
+				77.7 per cent.<br>
+				Across the globe, the rate of literacy in youth has increased over two decades, from 83 percent to 91 percent, whereas the count of 
+				illiterate youth has declined from 170 million to 115 million.<br>
+				<u>Five reasons to increase litracy rate.</u><br>
+			    1.By being able to read and write, citizens can further develop their education. <br>	
+				2.Illiterate adults are more likely to fall victim to poor health and to have poor health care treatment later in life.<br>
+				3.Literate adults are more capable of being able to take care of their children. <br>
+				4.Literacy is one part of the Sustainable Development Goal number four under UNESCO’s plan to reduce global poverty.<br>
+				5.It is very plausible to increase literacy rates and it is producing great results in other countries already.<br>
+				</font></p></h2><br>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div id="sheet2">		
+				<h2 id = "10"><p id ="i"><font color="dark pink"><u>
+				10.Pollution Control</u></h2>
+				<img src = "m.jpg"  width ="400px" height ="250px"/><br>
+				<h2>Pollution control is the process of reducing or eliminating the release of pollutants into the environment. 
+				It is regulated by various environmental agencies which establish pollutant discharge limits for air, water, and land.<br><br>
+				<u>How to control Pollution? (10 Ways)</u><br><br>
+				(1) By means of equipments, apart from disposal of pollutants, recycling of waste could also be done.<br>
+				(2) The generated pollutants from industries must be arrested before they are passed into the air. <br>
+				(3) There are some industries which collect the dust and convert the same into saleable goods. <br>
+				(4) The metal oxides and metals such as Cr, V, Cd, Cu, and Fe etc. can be easily absorbed by
+				serpentine mineral or bark of some trees and thus effluent can be free from metallic species.<br> 
+				(5) For reducing the noise pollution, suggestions given above should be adopted at once.<br>
+				(6) The Govt. should be persuaded to provide cleaner fuels for manufacture of smokeless
+				coal briquettes by low temperature carbonization of poor quality lignites available locally.<br>
+				(7) The Govt. should provide facilities to increase hydroelectric power wherever possible and bio
+				gas production for rural areas to reduce pollution. <br>
+				(8) The garbage in big cities should be treated with cobalt rays. This can reduce the pollution load to about 60% in cities.<br>
+				(9) Govt. should encourage scientific societies and scientific newspapers to create awareness among people about pollution and environment.<br>
+				(10) Organic waste solid can be composted. The poisonous waste should be buried in the well-protected areas.<br><br>
+				<text align= center><h2>THANK YOU</h2>
+				</font></p></h2><br>
+		</div>
+		<br>
+		<br>
+	
+	</body>
+</html>
